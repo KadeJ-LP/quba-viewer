@@ -29,7 +29,7 @@
     "jsdom": "^23.0.1",
     "node-localstorage": "^2.2.1",
     "pdfjs-dist": "2.9.359",
-    "saxon-js": "2.4.0",
+    "saxon-js": "2.7.0",
     "vue": "3.2.36",
     "vue-i18n": "9.1.10",
     "vue-sweetalert2": "^5.0.5",
